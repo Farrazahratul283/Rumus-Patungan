@@ -1,6 +1,6 @@
 import java.text.Format;
 
-public class App {
+public class farra {
     public static void main(String[] args) throws Exception {
 
         String nama ="Farra Zahratul Milla";
